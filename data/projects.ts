@@ -1,6 +1,8 @@
+
 export const projects = [
   {
     id: "01",
+    slug: "safelink",
     title: "SafeLink",
     category: "IoT · Mobile · Safety",
     description:
@@ -9,8 +11,10 @@ export const projects = [
     year: "2026",
     featured: true,
   },
+
   {
     id: "02",
+    slug: "national-weather-analytics",
     title: "National Weather Analytics",
     category: "Big Data · AI · Analytics",
     description:
@@ -19,8 +23,10 @@ export const projects = [
     year: "2026",
     featured: true,
   },
+
   {
     id: "03",
+    slug: "reelish",
     title: "Reelish",
     category: "Social Platform",
     description:
@@ -29,8 +35,10 @@ export const projects = [
     year: "2026",
     featured: true,
   },
+
   {
     id: "04",
+    slug: "landslide-prediction",
     title: "Landslide Prediction",
     category: "Machine Learning · Research",
     description:
@@ -44,8 +52,10 @@ export const projects = [
     year: "2026",
     featured: true,
   },
+
   {
     id: "05",
+    slug: "animeforge",
     title: "AnimeForge",
     category: "Creative Web Experience",
     description:
@@ -54,8 +64,10 @@ export const projects = [
     year: "2026",
     featured: false,
   },
+
   {
     id: "06",
+    slug: "virtual-herbal-garden",
     title: "Virtual Herbal Garden",
     category: "3D · Education",
     description:
